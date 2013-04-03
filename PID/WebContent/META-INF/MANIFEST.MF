@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: PIDDTO.jar 
+ PIDBL.jar 
+ PIDUTIL.jar
+
